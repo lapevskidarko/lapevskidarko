@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello, I'm Darko 👋
+- :computer: :mortar_board: Faculty of Computer Science & Engineering
+- 📫 How to reach me: https://www.linkedin.com/in/darko-lapevski/
+
 
 <!--
 **lapevskidarko/lapevskidarko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
